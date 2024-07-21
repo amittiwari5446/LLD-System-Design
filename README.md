@@ -10,3 +10,4 @@ e). Builder Design Pattern
 Structural Design Pattern
 ..........................................
 a). Adapter Design Pattern
+b). Bridge Design Pattern
