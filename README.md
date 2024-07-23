@@ -7,7 +7,8 @@ d). Prototype Design Pattern
 e). Builder Design Pattern
 
 
-Structural Design Pattern
+Structural Design Pattern:
 ..........................................
 a). Adapter Design Pattern
 b). Bridge Design Pattern
+c). Composite Design Pattern
