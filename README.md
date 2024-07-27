@@ -12,3 +12,4 @@ Structural Design Pattern:
 a). Adapter Design Pattern
 b). Bridge Design Pattern
 c). Composite Design Pattern
+d). Decorator Design Pattern
