@@ -13,3 +13,4 @@ a). Adapter Design Pattern
 b). Bridge Design Pattern
 c). Composite Design Pattern
 d). Decorator Design Pattern
+e). Facade Method Design Pattern
