@@ -14,3 +14,4 @@ b). Bridge Design Pattern
 c). Composite Design Pattern
 d). Decorator Design Pattern
 e). Facade Method Design Pattern
+f). FlyWeight Design Pattern
