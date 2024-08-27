@@ -23,4 +23,4 @@ Behavoral Design Pattern:
 a). Chain of Responsibility Design Pattern
 b). Command Design Pattern
 c). Interpreter Design Pattern
-d).
+d). Mediator Design Pattern
