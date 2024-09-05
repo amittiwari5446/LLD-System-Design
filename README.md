@@ -24,3 +24,4 @@ a). Chain of Responsibility Design Pattern
 b). Command Design Pattern
 c). Interpreter Design Pattern
 d). Mediator Design Pattern
+e). Memento Design Pattern
